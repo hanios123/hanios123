@@ -11,7 +11,7 @@
 
 ### Tech
 
-`Elixir` `Phoenix` `React` `React Native` `Expo` `TypeScript` `Node.js` `Laravel` `PostgreSQL` `Redis` `AWS` `Kubernetes`
+`Elixir` `Phoenix` `React` `React Native` `Expo` `TypeScript` `Node.js` `Laravel` `PostgreSQL` `MySQL` `Laravel Echo Server` `Vue js` `Redis` `AWS` `Kubernetes`
 
 ### Open Source
 
@@ -24,7 +24,6 @@ Create onboarding flows, guided tours, and screen walkthroughs in React.
 
 📧 [barkallahhani@gmail.com](mailto:barkallahhani@gmail.com)
 💼 [www.linkedin.com/in/hani-barkallah-20448a166](http://www.linkedin.com/in/hani-barkallah-20448a166)
-🐙 github.com/hanios123
 
 ---
 
