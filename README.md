@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Hani Barkallah
 
-<!--
-**hanios123/hanios123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Senior Full Stack Engineer
+🌍 Tunisia | Remote
+🚀 Building products from prototype to production
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚡ 7+ years of experience
+* 🏗️ Full-stack ownership from design to deployment
+
+### Tech
+
+`Elixir` `Phoenix` `React` `React Native` `Expo` `TypeScript` `Node.js` `Laravel` `PostgreSQL` `Redis` `AWS` `Kubernetes`
+
+### Open Source
+
+📦 **React Screen Flow**
+Create onboarding flows, guided tours, and screen walkthroughs in React.
+
+➡️ https://github.com/hanios123/react-screen-flow
+
+### Connect
+
+📧 [barkallahhani@gmail.com](mailto:barkallahhani@gmail.com)
+💼 [www.linkedin.com/in/hani-barkallah-20448a166](http://www.linkedin.com/in/hani-barkallah-20448a166)
+🐙 github.com/hanios123
+
+---
+
+> I enjoy building products, solving hard problems, and shipping fast.
+
