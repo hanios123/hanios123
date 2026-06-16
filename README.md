@@ -4,6 +4,9 @@
 🌍 Tunisia | Remote
 🚀 Building products from prototype to production
 
+
+[View My CV](https://flowcv.com/resume/wn8c8fcr8bbs)
+
 ### About Me
 
 * ⚡ 7+ years of experience
